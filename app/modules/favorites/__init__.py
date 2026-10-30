@@ -1,0 +1,1 @@
+"""User favorite tracks."""

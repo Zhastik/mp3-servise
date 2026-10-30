@@ -1,0 +1,14 @@
+.venv
+.git
+.idea
+.env
+.env.*
+data
+media
+tools
+__pycache__
+.pytest_cache
+tests
+screenshots
+test-results
+*.log
